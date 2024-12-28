@@ -78,8 +78,11 @@ Total Views per category
 
 
 ---
-# Thank you
-If you like this project give a star.
+
+<p>For detailed instructions and troubleshooting, please comment or contact the author.</p>
+<p>Give Credits to the author</p>
+<p>If you like this project give stars.</p>
+
+### Thank you
 
 # **Author**: _Sivaprakash V_
-
